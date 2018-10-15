@@ -1,0 +1,1 @@
+- exemplify how to sends a request at JSONPlaceholder (a fake online REST API) in order to show some photos
